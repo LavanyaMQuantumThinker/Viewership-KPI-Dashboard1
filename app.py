@@ -11,7 +11,7 @@ df = pd.read_csv(r"C:\Users\Lavanya\OneDrive\Desktop\Behindwoods\viewership_dash
 st.title("📊 Viewership KPI Dashboard")
 st.write("Analyze multi-platform video performance for Behindwoods")
 
-# KPI Tiles
+# KPI Tilegit s
 st.subheader("Key Performance Indicators")
 st.metric("Total Views", f"{df['Views'].sum():,}")
 st.metric("Average CTR (%)", f"{df['CTR (%)'].mean():.2f}")
