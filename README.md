@@ -50,9 +50,7 @@ All using:
 
 👉 [Click here to launch the dashboard](https://viewership-kpi-dashboard1-9s7jarqn7khbwqt3a2vvij.streamlit.app/)
 
-> _(Replace the above link with your actual Streamlit Cloud URL)_
 
----
 
 
 
