@@ -48,18 +48,7 @@ All using:
 
 ## 🚀 Try the App Live
 
-👉 [Click here to launch the dashboard](https://your-streamlit-link-here.streamlit.app)
+👉 [Click here to launch the dashboard](https://viewership-kpi-dashboard1-9s7jarqn7khbwqt3a2vvij.streamlit.app/)
 
-> _(Replace the above link with your actual Streamlit Cloud URL)_
-
----
-
-## 🛠️ How to Run Locally
-
-```bash
-git clone https://github.com/yourusername/viewership-kpi-dashboard
-cd viewership-kpi-dashboard
-pip install -r requirements.txt
-streamlit run app.py
 
 
